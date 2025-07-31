@@ -1,0 +1,10 @@
+marks.py
+FIND ODD OR EVEN
+
+
+step 1  :  Take one number (Ex : 7)
+step 2  :  The condition is give as (num%==2);
+step 3  :   if the given condition is true
+step 4  :  then print as the given number is even
+step 5  :  if the condition is false
+step 6  :  then print as the given number is odd
