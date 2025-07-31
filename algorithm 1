@@ -1,0 +1,12 @@
+num (1).py
+ Find maximun number
+
+step 1 :  Take three numbers
+step 2 :  To assign as a,band c
+step 3 :  to give the condition as (a>b&a>c);
+step 4 :  the given condition is true 
+step 5 :  then print  a is greatest
+step 6 :  if (a<b&b>c);
+step  7 :  then print as b is greatest (if the condition is true)
+step  8 :  if (a<c&b<c);
+step  9 :  then p-rint as c is greatest
